@@ -13,4 +13,5 @@ setup(
     author_email='albin@zerebra.com',
     url='https://github.com/albinlindskog/django_idempotency',
     zip_safe=True,
+    license_files = ('license',),
 )
